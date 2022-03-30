@@ -2,9 +2,9 @@
 
 
 
-- Desenvolvedora Full Stack Java {em formação}
-- E-mail: oliveirababbi@gmail.com
-- Pronomes: Ela/Dela/She/Her
+🌱 Desenvolvedora Full Stack Java {em formação}
+
+😄 Pronomes: Ela/Dela/She/Her
 
 <div align="center">
   <a href="https://github.com/oliveirababbi">
