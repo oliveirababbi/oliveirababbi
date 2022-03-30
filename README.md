@@ -2,14 +2,14 @@
 
 
 
-- 🌱 Desenvolvedora Full Stack Java {em formação}
-- 📫 E-mail: oliveirababbi@gmail.com
-- 😄 Pronomes: Ela/Dela/She/Her
+- Desenvolvedora Full Stack Java {em formação}
+- E-mail: oliveirababbi@gmail.com
+- Pronomes: Ela/Dela/She/Her
 
 <div align="center">
   <a href="https://github.com/oliveirababbi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliveirababbi&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirababbi&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img align="center" height="400" width="500" src="https://github-readme-stats.vercel.app/api?username=oliveirababbi&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img align="center" height="400" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirababbi&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
   
 <div> 
