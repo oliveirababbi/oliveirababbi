@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/oliveirababbi">
-  <img align="center" height="400" width="500" src="https://github-readme-stats.vercel.app/api?username=oliveirababbi&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-  <img align="center" height="400" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirababbi&layout=compact&langs_count=7&theme=graywhite"/>
+  <img height="150" width="300" src="https://github-readme-stats.vercel.app/api?username=oliveirababbi&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="150" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirababbi&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
   
 <div> 
